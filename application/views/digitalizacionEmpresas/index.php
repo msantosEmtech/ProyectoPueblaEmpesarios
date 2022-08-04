@@ -1,5 +1,5 @@
 <main>
-    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/MetodologiasAgiles/bannerMetodologiasAgiles.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
+    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/transformacionDigital/bannerTransformacionDigital.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
         <div class="container" style="position: relative;z-index: 1;">
             <div class="row flex-md-row align-items-center">
                 <div class="col-md-12">
@@ -8,9 +8,9 @@
                         Programa de Capacitación y Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes para Agentes del Ecosistema de Innovación.
                         </h3>
                         <br>
-                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Metodologías Ágiles para la Gestión de<br> Proyectos</h1>
+                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Introducción a las Tecnologías Emergentes</h1>
                         <h3 class="pt-3 pb-3 font-Novreg text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">
-                        Aprende sobre una práctica esencial en un mundo cada vez más digital.
+                        Conoce cómo las organizaciones líderes innovan y préparate<br> para las profesiones de hoy y del futuro.
                         </h3>                          
                         <div class="text-center" id="btnBanner">
                             <a class="btn btn-rojo" href="#especialidades">Postúlate para obtener una beca</a>
@@ -71,13 +71,13 @@
             </div>
             <div class="row p-2 py-5 align-items-center flex-column-reverse flex-lg-row text-center">
                 <div class=" col-lg-12">
-                    <h2 style="color:#BB9F79">¿Por qué Metodologías Ágiles?</h2>
+                    <h2 style="color:#BB9F79">¿Por qué Tecnologías Emergentes?</h2>
                     <br>
                     <h4 class="font-Novreg" style="color:#212424">
                         A lo largo de este curso fundacional del <span class="font-Novbold">Programa de Capacitación y Desarrollo de Competencias Digitales en<br>
-                        Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span>  conocerás a detalle una de las<br> 
-                        metodologías más utilizadas para la gestión de proyectos: SCRUM. Aprenderás las etapas, los roles y<br>
-                        responsabilidades de los miembros del equipo y las ceremonias para llevarlo a cabo. 
+                        Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> conocerás en detalle las principales<br>
+                        tecnologías emergentes que enmarcan la cuarta revolución industrial, así como su potencial y aplicación en<br>
+                        distintas industrias. 
                     </h4>
                     <br>
                     <div class="text-center pb-2" style="padding-top: 8rem;">
@@ -97,16 +97,16 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/circuloRojo.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las características fundamentales para la<br> ejecución de proyectos mediante la<br> Metodología Ágil: SCRUM.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo.svg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>La evolución histórica de la tecnología, así<br> como las principales características de la<br> revolución industrial y la cuantificación del<br> proceso tecnológico. </p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/circuloRojo2.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>  Los elementos más importantes a considerar<br> dentro de la Metodología Ágil: el proyecto, el<br> equipo y los procesos.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo2.svg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br> Las tecnologías de vanguardia, pilares de<br> la Industria 4.0 y sus características<br> generales en la reciente transformación<br> en la industria manufacturera.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/circuloRojo3.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales aplicaciones de las<br> Las fases para implementar un proyecto ágil,<br> a lo largo de todo su ciclo de vida que te<br> ayude a alcanzar los objetivos planteados.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo3.svg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales aplicaciones de las<br> tecnologías emergentes y el desarrollo de<br> habilidades tecnológicas transversales.</p>
                 </div>
             </div>
             <div class="py-5 text-center">
@@ -135,7 +135,7 @@
                                         <div class="col-12">
                                             <h3 class="font-Novbold banner-descripcion num-paso">01</h3>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Implementar los principios de una Metodología Ágil para el diseño y presentación exitosa de la operación de un proyecto.
+                                                <br> Cuantificar el proceso tecnológico de nuestra sociedad, a partir de las distintas revoluciones industriales.
                                             </h4>
                                         </div>
                                     </div>
@@ -149,7 +149,7 @@
                                         <div class="col-12">
                                             <h3 class="font-Novbold banner-descripcion num-paso">02</h3>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Identificar los elementos críticos de un proyecto y saber cómo coordinar un equipo desde el rol del Scrum Máster.
+                                                <br> Identificar las aplicaciones fundamentales de las tecnologías emergentes de la 4ª Revolución Industrial.
                                             </h4>
                                         </div>
                                     </div>
@@ -163,7 +163,7 @@
                                         <div class="col-12">
                                             <h3 class="font-Novbold banner-descripcion num-paso">03</h3>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Proponer una planeación para la gestión de un proyecto considerando el total de actividades que hay que realizar.  
+                                                <br> Proponer el uso de distintas tecnologías emergentes para la optimización de procesos. 
                                             </h4>
                                         </div>
                                     </div>
@@ -197,10 +197,10 @@
                 <div class="col-md-4 pb-3" >
                     <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
                         <div class="card-body">
-                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 135px;" src="<?=base_url('assets/images/iconBarreras4.svg')?>" alt="Icono" width = "100"/>
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras1.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                Acompañamiento de un tutor para tener un<br> seguimiento más personalizado. 
+                                Foros de preguntas y respuestas que te<br> ayudan a despejar todas tus dudas.
                                 <br><br> 
                             </p>
                         </div>
@@ -212,7 +212,7 @@
                             <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras3.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                Actividades practicas que te permiten<br> reforzar tu aprendizaje. 
+                                Actividades interactivas que te permiten<br> reforzar tu aprendizaje. 
                                 <br><br> 
                             </p>
                         </div>
@@ -229,16 +229,16 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManosLaptop.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar<br> de manera exitosa el curso de<br> Tecnologías Emergentes.
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del programa.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManoAnalisis.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en los esquemas innovadores de<br> trabajo y colaboración del mercado laboral actual. 
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mercado laboral actual.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/MetodologiasAgiles/imgManosLaptop2.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
                 </div>
             </div>
             <div class="py-5 text-center">
@@ -262,14 +262,17 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseOne" aria-expanded="false"
                                     aria-controls="flush-collapseOne">
-                                    1. Introducción a la gestión de un proyecto
+                                    Gestión SCRUM - Agile
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Principales Metodologías para la gestión de un proyecto </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Welcome Kit </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Marco de trabajo SCRUM</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Reflexión sobre SCRUM</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Quiz : Gestión SCRUM</span></li>
                                     </ul>
                                 </div>
                             </div>
@@ -279,17 +282,16 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseTwo" aria-expanded="false"
                                     aria-controls="flush-collapseTwo">
-                                    2. Gestión de Proyectos con las Metodologías Ágiles
+                                    Staffing y estructura de equipos de trabajo
                                 </button>
                             </h2>
                             <div id="flush-collapseTwo" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Introducción a Metodologías Ágiles</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> El proyecto </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> El equipo</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> El proceso</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Estructuración del trabajo en equipo </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Reflexión sobre estructura del equipo de trabajo </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Quiz: Estructura del equipo de trabajo</span></li>
                                     </ul>
                                 </div>
                             </div>
@@ -299,25 +301,42 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseThree" aria-expanded="false"
                                     aria-controls="flush-collapseThree">
-                                    3.Ejecución del Proyecto con Metoloías Ágiles
+                                    Planeación de Programas de Aprendizaje Híbrido
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Introducción a Metodologías Ágiles </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Antes de la ejecución </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Durante la ejecución </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Después de la ejecución </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Planeación y calendarización </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Presupuestos </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Aplicación práctica de proyecto</span></li>
                                     </ul>
                                 </div>
                             </div>
-                        </div>                    
+                        </div> 
+                        <div class="accordion-item">
+                            <h2 class="accordion-header" id="flush-headingEight">
+                                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+                                    data-bs-target="#flush-collapseEight" aria-expanded="false"
+                                    aria-controls="flush-collapseEight">
+                                    Gestión des procesos
+                                </button>
+                            </h2>
+                            <div id="flush-collapseEight" class="accordion-collapse collapse"
+                                aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
+                                <div class="accordion-body">
+                                    <ul class="list-group list-group-light">
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Seguimiento, tracking y KPIs</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Gestión de riesgos y presupuestos</span></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>                     
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-center my-auto">
-                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/MetodologiasAgiles/imgSeccionContenido.png')?>" alt="Logo Image"/>
+                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/transformacionDigital/imgSeccionContenido.png')?>" alt="Logo Image"/>
                 </div>
             </div>
         </div>
@@ -329,7 +348,7 @@
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Metodologías Ágiles para ser<br> considerado en la convocatoria.</h4>
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Tecnologías Emergentes para ser<br> considerado en la convocatoria.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">
@@ -340,26 +359,27 @@
         </div>
     </section>
     <section class="py-5 pb-80 ">
-        <div class="container">
-            <div class="section-header">
-                <div class="col-lg-12 text-center" style="padding-top: 5rem;">
-                    <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
-                </div>
-                <br>
-            </div>
-            <div class="row py-5">
-                <div class="col-md-12">
-                    <div class="pt-3 pb-5 text-center row wow fadeInUp">
-                        <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
-                    <br>  
+            <div class="container">
+                <div class="section-header">
+                    <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                        <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
                     </div>
-                    <div class="row content pt-3 text-center equal-cols">
-                        <div class="col-md-12 pb-2" >
-                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
+                    <br>
+                </div>
+                <div class="row py-5">
+                    <div class="col-md-12">
+                        <div class="pt-3 pb-5 text-center row wow fadeInUp">
+                            <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
+                        <br>  
+                        </div>
+                        <div class="row content pt-3 text-center equal-cols">
+                            <div class="col-md-12 pb-2" >
+                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+    
 </main>

@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class ProgramacionWeb extends CI_Controller {
+class DigitalizacionEmpresas extends CI_Controller {
 
 	public function __construct(){
 		parent::__construct();
@@ -12,7 +12,7 @@ class ProgramacionWeb extends CI_Controller {
 
 	public function index()
 	{
-        $data['title'] = "Web";
+        $data['title'] = "Digitalización de empresas";
 
 		$linkJsVista = base_url('assets/js/home.js');
 		$footer = array(
@@ -21,7 +21,7 @@ class ProgramacionWeb extends CI_Controller {
         );
 
 		$this->load->view('header', $data);
-		$this->load->view('programacionWeb/index');
+		$this->load->view('digitalizacionEmpresas/index');
 		$this->load->view('footer', $footer);
 	}
 }

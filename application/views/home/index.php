@@ -83,7 +83,7 @@
                                 <span></span>
                                 <p>Conoce cómo las últimas tendencias tecnológicas están cambiando la cultura organizacional de las empresas y transformando nuestras vidas.</p>
                                 <br>
-                                <a href="<?= base_url('TransformacionDigital') ?>" title="Postúlate">Postúlate para obtener una beca</a>
+                                <a href="<?= base_url('TecnologiasEmergentes') ?>" title="Postúlate">Postúlate para obtener una beca</a>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@
                                 <span></span>
                                 <p>Aprende a implementar una ruta de digitalización empresarial en las diferentes áreas de tu organización a través de herramientas digitales.</p>
                                 <br>
-                                <a href="<?= base_url('MetodologiaAgiles') ?>" title="Postúlate">Postúlate para obtener una beca</a>
+                                <a href="<?= base_url('DigitalizacionEmpresas') ?>" title="Postúlate">Postúlate para obtener una beca</a>
                             </div>
                         </div>
                     </div>
@@ -111,7 +111,7 @@
                                 <span></span>
                                 <p>Forma parte de la transformación empresarial a través de la tecnología y aplícala a tu empresa según tus necesidades.</p>
                                 <br>
-                                <a href="<?= base_url('ProgramacionWeb') ?>" title="Postúlate" style="width: 20px;">Postúlate para obtener una beca</a>
+                                <a href="<?= base_url('TransformacionDigital') ?>" title="Postúlate" style="width: 20px;">Postúlate para obtener una beca</a>
                             </div>
                         </div>
                     </div>

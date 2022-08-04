@@ -122,7 +122,7 @@
   .banner-area {
   position: relative;
   z-index: 1;
-  padding-top: 6rem;
+  padding-top: 11rem;
   padding-bottom: 25.375rem;
   overflow: hidden;
   background: linear-gradient(256.17deg, #fff6d6 1.04%, rgba(255, 255, 255, 0) 100%);
@@ -565,7 +565,7 @@
 
     .banner-area .banner-left {
       padding-top: 0rem;
-      margin-top: 0rem;
+      margin-top: 3rem;
       margin-bottom: 0rem;
       padding-left: 0rem !important;
       background-color: #333;
@@ -631,11 +631,11 @@
       margin-left: 0rem !important;
       padding: 0rem !important;
       padding-top: 1rem !important;
-      padding-bottom: 2rem !important;
+      padding-bottom: 3rem !important;
     }
     .post-para{
       height: 8rem !important;
-      width: 25rem !important;
+      width: 24rem !important;
       padding-left: 5rem !important;
       padding-right: 5rem !important;
       text-align: center !important;

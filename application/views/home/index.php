@@ -8,14 +8,17 @@
                             <h3 class="pt-3 pb-3 font-Novreg" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);">
                             Programa de Capacitación y Desarrollo de Competencias<br> Digitales en Tecnologías Emergentes para Agentes del<br>
                             Ecosistema de Innovación.
-                            <hr class="lineaBanner"> 
+
+                            <!-- <hr class="lineaBanner">  -->
+                            <br>
                             </h3>
                             
-                            <h1 style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">Formación de Programación<br> WEB para Jóvenes </h1>
-                            <h3 class="pt-3 pb-3 font-Novreg" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);">
+                            <h1 style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">Formación en Transformación<br> Digital para Organizaciones</h1>
+                            <!-- <h3 class="pt-3 pb-3 font-Novreg" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.6);">
                             Participa en esta convocatoria e inicia tu camino como desarrollador<br>
                             WEB en una de las industrias más innovadoras del mercado laboral.
-                            </h3>                          
+                            </h3>                           -->
+                            <br>
                             <div id="btnBanner">
                                 <a class="btn btn-rojo" href="#especialidades">Postúlate para obtener una beca</a>
                             </div>
@@ -33,9 +36,10 @@
                     </div>
                     <div class=" col-lg-12">
                         <h4 class="font-Novreg" style="color:#212424">
-                            Durante 13 semanas podrás formarte en las tendencias y esquemas de trabajo más innovadores del mercado <br>
-                            laboral actual para iniciar tu aprendizaje en uno de los perfiles más requeridos por las organizaciones: <br>
-                            <span class="font-Novbold">Programación WEB.</span>
+                            Durante 13 semanas conocerás las tecnologías que están utilizando las organizaciones líderes del país y<br>
+                            cómo puedes aplicarlas según las necesidades de tu organización para lograr una 
+                            <span class="font-Novbold">transformación rentable y<br>
+                            sostenible en el tiempo.</span>
                         </h4>
                     </div>
                 </div> 
@@ -60,7 +64,7 @@
                     <div class="pt-5 text-center">
                         <h4 class="font-Novreg" style="color:#000000">
                             Nuestro modelo de éxito combina el acceso a los mejores contenidos en línea con un esquema de <br>
-                            acompañamiento en tiempo real y oportunidades de vinculación con el mercado laboral.
+                            acompañamiento en tiempo real para impulsar tu organización.
                         </h4>  
                     </div>
                     <div class="col-lg-12 text-center" style="padding-top: 5rem;">
@@ -87,11 +91,11 @@
                         <div class="welcome-box">
                             <img src="<?= base_url('assets/images/welcome2.jpg') ?>" alt="welcome2" width="370" height="340"/>
                             <div class="welcome-title">
-                                <h3>Metodologías ágiles</h3>
+                                <h3>Digitalización de empresas</h3>
                             </div>	
                             <div class="welcome-content pb-4">
                                 <span></span>
-                                <p>Aprende a través de los métodos que utilizan las grandes empresas del mundo cómo organizar de manera metódica un proyecto.</p>
+                                <p>Aprende a implementar una ruta de digitalización empresarial en las diferentes áreas de tu organización a través de herramientas digitales.</p>
                                 <br>
                                 <a href="<?= base_url('MetodologiaAgiles') ?>" title="Postúlate">Postúlate para obtener una beca</a>
                             </div>
@@ -101,11 +105,11 @@
                         <div class="welcome-box">
                             <img src="<?= base_url('assets/images/welcome3.jpg') ?>" alt="welcome3" width="370" height="340"/>
                             <div class="welcome-title">
-                                <h3>Desarrollo WEB</h3>
+                                <h3>Transformación Digital</h3>
                             </div>	
                             <div class="welcome-content pb-4">
                                 <span></span>
-                                <p>Obtén formación y conocimientos básicos de FrontEnd con lenguajes HTML, CSS y JavaScript.</p>
+                                <p>Forma parte de la transformación empresarial a través de la tecnología y aplícala a tu empresa según tus necesidades.</p>
                                 <br>
                                 <a href="<?= base_url('ProgramacionWeb') ?>" title="Postúlate" style="width: 20px;">Postúlate para obtener una beca</a>
                             </div>
@@ -131,22 +135,22 @@
                 </div>
                 <div class="row p-2 text-center">
                     <div class="col-lg-3 col-md-3 col-xs-3">
-                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-comunidad.svg" alt="Logo Image" width="45%"/>
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/icon-comunidad.svg') ?>" alt="Logo Image" width="45%"/>
                         <h5 class="titulo-modelos">Una comunidad <br>comprometida</h5>
                         <p class="descripcion-modelos">Que permite la construcción de buenas <br>relaciones entre los participantes.</p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-xs-3">
-                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-tutorias.svg" alt="Logo Image" width="45%"/>
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/icon-tutorias.svg') ?>" alt="Logo Image" width="45%"/>
                         <h5 class="titulo-modelos">Tutorías y <br>retroalimentación</h5>
                         <p class="descripcion-modelos">De la mano de un experto, quien te brindará el apoyo necesario para finalizar el curso de manera exitosa.</p>
                     </div>  
                     <div class="col-lg-3 col-md-3 col-xs-3">
-                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-casos.svg" alt="Logo Image" width="45%"/>
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/icon-casos.svg') ?>" alt="Logo Image" width="45%"/>
                         <h5 class="titulo-modelos">Desarrollo de casos <br> prácticos</h5>
                         <p class="descripcion-modelos">Que permiten la aplicación de los <br>conocimientos y habilidades adquiridas.</p>
                     </div>
                     <div class="col-lg-3 col-md-3 col-xs-3">
-                        <img class=" pt-2 mx-auto d-block" src="assets/images/icon-actores.svg" alt="Logo Image" width="45%"/>
+                        <img class=" pt-2 mx-auto d-block" src="<?= base_url('assets/images/icon-actores.svg') ?>" alt="Logo Image" width="45%"/>
                         <h5 class="titulo-modelos">Contacto con <br>actores clave</h5>
                         <p class="descripcion-modelos">Que brinda un acercamiento a la industria<br> y sus oportunidades.</p>
                     </div>                                                          
@@ -162,9 +166,9 @@
                 </div>
                 <div class="row text-center pt-5">
                     <div class="col-md-4 col-ls-4 pr-0">
-                        <img src="assets/images/comp1.svg" alt="Testimonial Image" width="90%">
+                        <img src="<?= base_url('assets/images/comp1.svg') ?>" alt="Testimonial Image" style="position: relative;width: 95%;">
                     </div>
-                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -5.25rem; padding: 2rem;padding-top:1rem;margin-right:4rem;">
+                    <div class="col-md-8 col-ls-8 parrafo-cuadro-gris align-self-center my-auto" style="align-items: center;background:#EDEFF2;margin-left: -4.25rem; padding: 3rem;">
                         <p class="post-para" style="height:4rem;width:38rem;padding-left:5rem;padding-right:5rem;text-align: left;">
                             Al terminar cada curso de manera satisfactoria, Emtech Institute te<br>
                             otorgará un certificado digital que valida el dominio en los temas<br>
@@ -178,17 +182,26 @@
             <div class="container">
                 <div class="container-fluid row g-4 row-cols-1 row-cols-lg-4">
                     <div class="col-lg-6 col-md-6 col-xs-12">
-                        <h2 class="py-5 font-Novbold" style="color: #050505;">¡Sé parte de la transformación profesional!</h2>
+                        <h2 class="py-5 font-Novbold" style="color: #050505;">¡Sé parte de la transformación tecnológica!</h2>
                         <br>
                         <h4 class="font-Novreg" style="color:#212424">
-                            Este Programa del Gobierno de Puebla está diseñado para<br>
-                            jóvenes universitarios o recién egresados que quieran darle<br>
-                            un valor agregado a su carrera e incrementar su<br> 
-                            conocimiento a través de:
+                            Revoluciona la visión de tu organización de la mano de<br>
+                            herramientas digitales y tecnologías emergentes para así lograr:
                         </h4>
                         <br>
-                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Las tendencias e innovaciones más actuales del<br> <span class="font-Novbold" style="padding-left: 2rem;">mercado laboral.</span></span></li>
-                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem"><i class="fas fa-circle" style="color: #BB9F79;"></i><span class="font-Novbold" style="padding-left: 1rem;"> Herramientas y tecnologías innovadoras aplicadas a<br><span class="font-Novbold" style="padding-left: 2rem;">las profesiones del presente y el futuro.</span> </span></li>
+                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem">
+                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                                <span class="font-Novbold" style="padding-left: 1rem;"> Un crecimiento competitivo y rentable alineado a las<br> 
+                                    <span class="font-Novbold" style="padding-left: 2rem;">tendencias más actuales.</span>
+                                </span>
+                            </li>
+                        <li class="list-group-item px-3 border-0" style="background-color: #EDEDEE;line-height:1.456rem">
+                            <i class="fas fa-circle" style="color: #BB9F79;"></i>
+                            <span class="font-Novbold" style="padding-left: 1rem;"> Procesos más productivos apoyados de la tecnología<br>
+                                <span class="font-Novbold" style="padding-left: 2rem;">más innovadora para satisfacer necesidades.</span> 
+                            </span>
+                        </li>
+                        <br>
                         <br>
                         <div class="row">
                             <div id="btnBanner">

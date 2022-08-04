@@ -229,15 +229,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgChicaManosCruzadas.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgChicaManosCruzadas.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del programa.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgDedoTecnologia.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgDedoTecnologia.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mundo empresarial actual.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 360px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgLaptopBlanca.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 360px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgLaptopBlanca.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
                 </div>
             </div>

@@ -1,5 +1,5 @@
 <main>
-    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/DigitalizacionEmpresas/bannerDigitalizacionEmpresas.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
+    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/transformacionDigital/bannerTransformacionDigital.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
         <div class="container" style="position: relative;z-index: 1;">
             <div class="row flex-md-row align-items-center">
                 <div class="col-md-12">
@@ -8,9 +8,9 @@
                         Programa de Capacitación y Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes para Agentes del Ecosistema de Innovación.
                         </h3>
                         <br>
-                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Digitalización Empresarial </h1>
+                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Transformación Digital</h1>
                         <h3 class="pt-3 pb-3 font-Novreg text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">
-                        Descubre cómo implementar herramientas digitales en tu organización te<br> puede ayudar a optimizar procesos y maximizar recursos. 
+                        Aprende cómo transformar tu organización para obtener ventajas<br> competitivas y un crecimiento acelerado, sostenible y rentable.
                         </h3>                          
                         <div class="text-center" id="btnBanner">
                             <a class="btn btn-rojo" href="#especialidades">Postúlate para obtener una beca</a>
@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                     <p style="color:#BB9F79;padding-bottom: 1rem;">Duración:</p>
-                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">6 semanas</span>
+                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">2 semanas</span>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                 <p style="color:#BB9F79;padding-bottom: 1rem;">Nivel:</p>
-                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">Principiante</span>
+                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">Básico</span>
                                 </div>
                             </div>
                         </div>
@@ -71,12 +71,12 @@
             </div>
             <div class="row p-2 py-5 align-items-center flex-column-reverse flex-lg-row text-center">
                 <div class=" col-lg-12">
-                    <h2 style="color:#BB9F79">¿Por qué Digitalización Empresarial?</h2>
+                    <h2 style="color:#BB9F79">¿Por qué Transformación Digital?</h2>
                     <br>
                     <h4 class="font-Novreg" style="color:#212424">
-                        A lo largo de este curso fundacional del <span class="font-Novbold">Programa de Capacitación y Desarrollo de Competencias Digitales en<br>
-                        Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> aprenderás cómo las herramientas<br>
-                        digitales pueden convertirse en el mejor aliado para mejorar tu organización.
+                        La Transformación Digital en las organizaciones se ha vuelto una tendencia durante los últimos años. <span class="font-Novbold">En este<br>
+                        curso de Transformación Digital</span> aprenderás cómo a través de las tecnologías emergentes y según las<br>
+                        necesidades específicas de tu organización puedes llevarla a un siguiente nivel.
                     </h4>
                     <br>
                     <div class="text-center pb-2" style="padding-top: 8rem;">
@@ -97,15 +97,15 @@
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales funciones y características<br> correspondientes a cada área de<br> la organizacón.</p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Qué es la Transformación Digital y en qué se<br> diferencia de los procesos de digitalización.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo2.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Estrategias para la digitalización de los<br> procesos de tu organización según<br> sus necesidades.</p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Metodologías y herramientas que promueven<br> el cambio de mentalidad de tu equipo para<br> lograr la transformación.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo3.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>La relevancia de herramientas del mundo digital<br> y cómo su uso significa un cambio en el manejo<br> de la organización.</p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Cómo planear la integración de las<br> tecnologías emergentes en tu organización y<br> su estructura de trabajo.</p>
                 </div>
             </div>
             <div class="py-5 text-center">
@@ -134,7 +134,7 @@
                                         <div class="col-12">
                                             <span class="pb-80"></span>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Reconocer el potencial de tu organización para integrarse al mundo digital.
+                                                <br> Analizar los procesos de potencial Transformación Digital dentro de tu organización.
                                             </h4>
                                         </div>
                                     </div>
@@ -148,7 +148,7 @@
                                         <div class="col-12">
                                             <span class="pb-80"></span>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Simplificar procesos de las distintas áreas de tu organización.
+                                                <br> Seleccionar las diferentes tecnologías y estrategias que se adapten a las necesidades de tu organización.
                                             </h4>
                                         </div>
                                     </div>
@@ -162,7 +162,7 @@
                                         <div class="col-12">
                                             <span class="pb-80"></span>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Aplicar herramientas para satisfacer las necesidades de tu organización.
+                                                <br> Tener un plan para incrementar tu competitividad en el mercado actual.
                                             </h4>
                                         </div>
                                     </div>
@@ -228,15 +228,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/DigitalizacionEmpresas/hombreRosa.png')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar<br> de manera exitosa el curso de<br> Tecnologías Emergentes.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/chicaCamisaBlanca.png')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar de<br> manera exitosa los cursos de Tecnologías<br> Emergentes y Digitalización de Empresas.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/DigitalizacionEmpresas/manosMundo.png')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br><br>Tener interés por la digitalización de los procesos<br> de tu organización.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/dedoCelular.png')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en lograr la transformación digital de tu organización.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/DigitalizacionEmpresas/dedosTec.png')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/dedosTec.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
                 </div>
             </div>
@@ -335,7 +335,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-center my-auto">
-                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/DigitalizacionEmpresas/imgSeccionContenido.png')?>" alt="Logo Image"/>
+                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/transformacionDigital/imgSeccionContenido.png')?>" alt="Logo Image"/>
                 </div>
             </div>
         </div>
@@ -346,8 +346,7 @@
                 <div class="pb-5 row wow fadeInUp" data-wow-delay="0.1s">
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
-
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico que medirá tu nivel de<br> competencias en Digitalización de Empresas y serás<br> considerado para la convocatoria. </h4>
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico que medirá tu nivel de<br> competencias en Transformación Digital y serás<br> considerado para la convocatoria.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">

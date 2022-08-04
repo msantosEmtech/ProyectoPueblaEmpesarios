@@ -1,5 +1,5 @@
 <main>
-    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/transformacionDigital/bannerTransformacionDigital.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
+    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/tecnologiasEmergentes/bannerTecnologiaEmergente.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
         <div class="container" style="position: relative;z-index: 1;">
             <div class="row flex-md-row align-items-center">
                 <div class="col-md-12">
@@ -28,7 +28,7 @@
                         <div class="container" style="margin-bottom: 49px;">    
                             <div class="row content">
                                 <div class="col-md-12">
-                                    <img class="mx-auto iconosTarjeta" src="<?= base_url('assets/images/transformacionDigital/relojIcon.svg') ?>" style="width: 68px;padding-top: 1rem;display: block;" alt="">
+                                    <img class="mx-auto iconosTarjeta" src="<?= base_url('assets/images/tecnologiasEmergentes/relojIcon.svg') ?>" style="width: 68px;padding-top: 1rem;display: block;" alt="">
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                     <p style="color:#BB9F79;padding-bottom: 1rem;">Duración:</p>
@@ -43,7 +43,7 @@
                         <div class="container" style="margin-bottom: 49px;">
                             <div class="row content">
                                 <div class="col-md-12">
-                                    <img class="pt-4 mx-auto iconosTarjeta" src="<?= base_url('assets/images/transformacionDigital/bateriaIcon.svg') ?>" style="width: 100px;padding-top: 1rem;display: block;" alt="">
+                                    <img class="pt-4 mx-auto iconosTarjeta" src="<?= base_url('assets/images/tecnologiasEmergentes/bateriaIcon.svg') ?>" style="width: 100px;padding-top: 1rem;display: block;" alt="">
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                 <p style="color:#BB9F79;padding-bottom: 1rem;">Nivel:</p>
@@ -58,7 +58,7 @@
                         <div class="container" style="margin-bottom: 25px;">
                             <div class="row content">
                                 <div class="col-md-12">
-                                    <img class="pt-4 mx-auto iconosTarjeta" src="<?= base_url('assets/images/transformacionDigital/calendarioIcon.svg') ?>" style="width: 65px;padding-top: 1rem;display: block;" alt="">
+                                    <img class="pt-4 mx-auto iconosTarjeta" src="<?= base_url('assets/images/tecnologiasEmergentes/calendarioIcon.svg') ?>" style="width: 65px;padding-top: 1rem;display: block;" alt="">
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                     <p style="color:#BB9F79;padding-bottom: 1rem;">Fechas de inicio:</p>
@@ -97,15 +97,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo.svg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/circuloRojo.svg')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>La evolución histórica de la tecnología, así<br> como las principales características de la<br> revolución industrial y la cuantificación del<br> proceso tecnológico. </p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo2.svg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/circuloRojo2.svg')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br> Las tecnologías de vanguardia, pilares de<br> la Industria 4.0 y sus características<br> generales en la reciente transformación<br> en la industria manufacturera.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo3.svg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/circuloRojo3.svg')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales aplicaciones de las<br> tecnologías emergentes y el desarrollo de<br> habilidades tecnológicas transversales.</p>
                 </div>
             </div>
@@ -229,15 +229,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosCruzadas.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgChicaManosCruzadas.jpg')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del programa.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgDedoTecnologia.jpg')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mundo empresarial actual.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 360px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 360px;padding-bottom: 1rem;" src="<?=base_url('assets/images/tecnologiasEmergentes/imgLaptopBlanca.jpg')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
                 </div>
             </div>
@@ -336,7 +336,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-center my-auto">
-                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/transformacionDigital/imgSeccionContenido.png')?>" alt="Logo Image"/>
+                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/tecnologiasEmergentes/imgSeccionContenido.png')?>" alt="Logo Image"/>
                 </div>
             </div>
         </div>

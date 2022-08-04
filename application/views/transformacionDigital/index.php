@@ -1,5 +1,5 @@
 <main>
-    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/transformacionDigital/bannerTransformacionDigital.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
+    <section class="banner-area" style="background-image: url('<?= base_url("assets/images/DigitalizacionEmpresas/bannerDigitalizacionEmpresas.png") ?>');background-color:#F7F8FA;background-size:cover; background-repeat: no-repeat;max-height: 42rem;">
         <div class="container" style="position: relative;z-index: 1;">
             <div class="row flex-md-row align-items-center">
                 <div class="col-md-12">
@@ -8,9 +8,9 @@
                         Programa de Capacitación y Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes para Agentes del Ecosistema de Innovación.
                         </h3>
                         <br>
-                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Introducción a las Tecnologías Emergentes</h1>
+                        <h1 class="text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.35);font-size: 45px;">Digitalización Empresarial </h1>
                         <h3 class="pt-3 pb-3 font-Novreg text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);">
-                        Conoce cómo las organizaciones líderes innovan y préparate<br> para las profesiones de hoy y del futuro.
+                        Descubre cómo implementar herramientas digitales en tu organización te<br> puede ayudar a optimizar procesos y maximizar recursos. 
                         </h3>                          
                         <div class="text-center" id="btnBanner">
                             <a class="btn btn-rojo" href="#especialidades">Postúlate para obtener una beca</a>
@@ -32,7 +32,7 @@
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                     <p style="color:#BB9F79;padding-bottom: 1rem;">Duración:</p>
-                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">2 semanas</span>
+                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">6 semanas</span>
                                 </div>
                             </div>
                         </div>
@@ -47,7 +47,7 @@
                                 </div>
                                 <div class="col-md-12 descripcionTarjeta" style="padding-top: 10px;">
                                 <p style="color:#BB9F79;padding-bottom: 1rem;">Nivel:</p>
-                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">Básico</span>
+                                    <span style="font-size: 16px;font-weight: 500;line-height: 20px;color: #FFFFFF;font-family: 'AdelleSans-Reg';">Principiante</span>
                                 </div>
                             </div>
                         </div>
@@ -71,13 +71,12 @@
             </div>
             <div class="row p-2 py-5 align-items-center flex-column-reverse flex-lg-row text-center">
                 <div class=" col-lg-12">
-                    <h2 style="color:#BB9F79">¿Por qué Tecnologías Emergentes?</h2>
+                    <h2 style="color:#BB9F79">¿Por qué Digitalización Empresarial?</h2>
                     <br>
                     <h4 class="font-Novreg" style="color:#212424">
                         A lo largo de este curso fundacional del <span class="font-Novbold">Programa de Capacitación y Desarrollo de Competencias Digitales en<br>
-                        Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> conocerás en detalle las principales<br>
-                        tecnologías emergentes que enmarcan la cuarta revolución industrial, así como su potencial y aplicación en<br>
-                        distintas industrias. 
+                        Tecnologías Emergentes para Agentes del Ecosistema de Innovación,</span> aprenderás cómo las herramientas<br>
+                        digitales pueden convertirse en el mejor aliado para mejorar tu organización.
                     </h4>
                     <br>
                     <div class="text-center pb-2" style="padding-top: 8rem;">
@@ -98,15 +97,15 @@
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>La evolución histórica de la tecnología, así<br> como las principales características de la<br> revolución industrial y la cuantificación del<br> proceso tecnológico. </p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales funciones y características<br> correspondientes a cada área de<br> la organizacón.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo2.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br> Las tecnologías de vanguardia, pilares de<br> la Industria 4.0 y sus características<br> generales en la reciente transformación<br> en la industria manufacturera.</p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Estrategias para la digitalización de los<br> procesos de tu organización según<br> sus necesidades.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
                     <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/circuloRojo3.svg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Las principales aplicaciones de las<br> tecnologías emergentes y el desarrollo de<br> habilidades tecnológicas transversales.</p>
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>La relevancia de herramientas del mundo digital<br> y cómo su uso significa un cambio en el manejo<br> de la organización.</p>
                 </div>
             </div>
             <div class="py-5 text-center">
@@ -133,9 +132,9 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">01</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="my-auto font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Cuantificar el proceso tecnológico de nuestra sociedad, a partir de las distintas revoluciones industriales.
+                                                <br> Reconocer el potencial de tu organización para integrarse al mundo digital.
                                             </h4>
                                         </div>
                                     </div>
@@ -147,9 +146,9 @@
                                 <div id="paso1m" class="" style="text-align:left">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">02</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class=" font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Identificar las aplicaciones fundamentales de las tecnologías emergentes de la 4ª Revolución Industrial.
+                                                <br> Simplificar procesos de las distintas áreas de tu organización.
                                             </h4>
                                         </div>
                                     </div>
@@ -161,9 +160,9 @@
                                 <div id="paso1m" class="" style="text-align:left ">
                                     <div class="row">
                                         <div class="col-12">
-                                            <h3 class="font-Novbold banner-descripcion num-paso">03</h3>
+                                            <span class="pb-80"></span>
                                             <h4 class="pr-2 font-Novbold banner-descripcion" style="color:#9A2840;text-align:left ">
-                                                <br> Proponer el uso de distintas tecnologías emergentes para la optimización de procesos. 
+                                                <br> Aplicar herramientas para satisfacer las necesidades de tu organización.
                                             </h4>
                                         </div>
                                     </div>
@@ -197,10 +196,10 @@
                 <div class="col-md-4 pb-3" >
                     <div class="card detalles-card" style="border-radius: 12px;border: none;box-shadow: 0px 2px 14px #E5E6E8;">
                         <div class="card-body">
-                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras1.svg')?>" alt="Icono" width = "100"/>
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 135px;" src="<?=base_url('assets/images/iconBarreras4.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                Foros de preguntas y respuestas que te<br> ayudan a despejar todas tus dudas.
+                                Acompañamiento de un tutor para tener un<br> seguimiento más personalizado.
                                 <br><br> 
                             </p>
                         </div>
@@ -212,7 +211,7 @@
                             <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 100px;" src="<?=base_url('assets/images/iconBarreras3.svg')?>" alt="Icono" width = "100"/>
                             <p style="line-height:115%;">
                                 <br>
-                                Actividades interactivas que te permiten<br> reforzar tu aprendizaje. 
+                                Actividades practicas que te permiten reforzar tu aprendizaje. 
                                 <br><br> 
                             </p>
                         </div>
@@ -229,15 +228,15 @@
             </div>
             <div class="row content pt-5 text-center pb-80">
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgChicaManosArriba.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado como ganador de una<br> de las becas del programa.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/DigitalizacionEmpresas/hombreRosa.png')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Haber sido seleccionado luego de completar<br> de manera exitosa el curso de<br> Tecnologías Emergentes.</p>
                 </div> 
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgDedoTecnologia.jpg')?>" alt="Icono" />
-                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Tener interés en la aplicación de tecnologías<br> emergentes en el mercado laboral actual.</p>
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/DigitalizacionEmpresas/manosMundo.png')?>" alt="Icono" />
+                    <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br><br>Tener interés por la digitalización de los procesos<br> de tu organización.</p>
                 </div>    
                 <div class="col-lg-4 col-md-4 col-xs-4">
-                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/transformacionDigital/imgLaptopBlanca.jpg')?>" alt="Icono" />
+                    <img class="pt-2 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 350px;padding-bottom: 1rem;" src="<?=base_url('assets/images/DigitalizacionEmpresas/dedosTec.png')?>" alt="Icono" />
                     <p style="padding-left:1rem;padding-right:1rem;line-height:115%;"><br><br>Obtener un nivel básico o intermedio en el<br> diagnóstico de competencias tecnológicas.</p>
                 </div>
             </div>
@@ -336,7 +335,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-center my-auto">
-                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/transformacionDigital/imgSeccionContenido.png')?>" alt="Logo Image"/>
+                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/DigitalizacionEmpresas/imgSeccionContenido.png')?>" alt="Logo Image"/>
                 </div>
             </div>
         </div>
@@ -348,7 +347,7 @@
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Tecnologías Emergentes para ser<br> considerado en la convocatoria.</h4>
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico que medirá tu nivel de<br> competencias en Digitalización de Empresas y serás<br> considerado para la convocatoria. </h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">
@@ -359,27 +358,26 @@
         </div>
     </section>
     <section class="py-5 pb-80 ">
-            <div class="container">
-                <div class="section-header">
-                    <div class="col-lg-12 text-center" style="padding-top: 5rem;">
-                        <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
-                    </div>
-                    <br>
+        <div class="container">
+            <div class="section-header">
+                <div class="col-lg-12 text-center" style="padding-top: 5rem;">
+                    <h2 class="titulo-rojo">Promovemos la competitividad digital</h2>
                 </div>
-                <div class="row py-5">
-                    <div class="col-md-12">
-                        <div class="pt-3 pb-5 text-center row wow fadeInUp">
-                            <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
-                        <br>  
-                        </div>
-                        <div class="row content pt-3 text-center equal-cols">
-                            <div class="col-md-12 pb-2" >
-                                <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
-                            </div>
+                <br>
+            </div>
+            <div class="row py-5">
+                <div class="col-md-12">
+                    <div class="pt-3 pb-5 text-center row wow fadeInUp">
+                        <h3 style="color:#050505;">Este programa es una iniciativa del Gobierno de Puebla en alianza con Emtech Institute, con el objetivo  de impulsar en el Estado el desarrollo de talento en tecnologías emergentes y habilidades digitales transversales.</h3>
+                    <br>  
+                    </div>
+                    <div class="row content pt-3 text-center equal-cols">
+                        <div class="col-md-12 pb-2" >
+                            <img class="pt-2 pb-3 mx-auto d-block" id="iconModulo1" style="cursor: pointer;width: 75%;" src="<?=base_url('assets/images/logosEmpresas2.png')?>"/>
                         </div>
                     </div>
                 </div>
             </div>
-        </section>
-    
+        </div>
+    </section>
 </main>

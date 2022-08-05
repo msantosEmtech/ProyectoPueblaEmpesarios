@@ -128,7 +128,7 @@
                     <br>
                     <div class="pt-4 text-center pb-80">
                     <h4 class="font-Novreg" style="color:#000000">
-                        Nuestra metodología de formación y promoción laboral te permitirá impulsar tu crecimiento a través de:
+                    Nuestra metodología de formación te permitirá impulsar tu crecimiento a través de:
                     </h4>
                     <br>  
                     </div>

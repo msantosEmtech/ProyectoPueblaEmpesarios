@@ -4,7 +4,7 @@
             <div class="row flex-md-row align-items-center">
                 <div class="col-md-12">
                     <div class="banner-left" style="padding-left: 2rem;">
-                        <h3 class="pt-3 pb-3 font-Novreg text-center" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
+                        <h3 class="pt-3 pb-3 font-Novreg text-center h3-header" style="text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);">
                         Programa de Capacitación y Desarrollo de Competencias Digitales en<br> Tecnologías Emergentes para Agentes del Ecosistema de Innovación.
                         </h3>
                         <br>
@@ -348,7 +348,7 @@
                     <h1 style="color:#ffff">¡Quiero ser parte del programa!</h1>
 
 
-                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Completa este diagnóstico, el cual medirá tu nivel de<br> competencias en Tecnologías Emergentes para ser<br> considerado en la convocatoria.</h4>
+                    <h4 class="pt-5" style="color:#ffff;font-family: 'AdelleSans-Reg';font-size: 25px;">Conoce la convocatoria, acepta las condiciones, realiza el<br> diagnóstico que medirá tu nivel de competencias.</h4>
                 </div>
                 <div class="row">
                     <div id="btnBanner">

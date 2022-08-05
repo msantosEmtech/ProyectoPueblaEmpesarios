@@ -565,10 +565,13 @@
 
     .banner-area .banner-left {
       padding-top: 0rem;
-      margin-top: 3rem;
+      margin-top: 1rem;
       margin-bottom: 0rem;
       padding-left: 0rem !important;
       background-color: #333;
+    }
+    .h3-header br {
+      display: none !important;
     }
     .bannerEspecialidades{
       padding-top: 0.9rem !important;

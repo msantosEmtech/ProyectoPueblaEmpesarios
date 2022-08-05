@@ -262,17 +262,16 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseOne" aria-expanded="false"
                                     aria-controls="flush-collapseOne">
-                                    Gestión SCRUM - Agile
+                                    Las Revoluciones Industriales
                                 </button>
                             </h2>
                             <div id="flush-collapseOne" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Welcome Kit </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Marco de trabajo SCRUM</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Reflexión sobre SCRUM</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Quiz : Gestión SCRUM</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Primera Revolución </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Segunda Revolución</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Tercera Revolución</span></li>
                                     </ul>
                                 </div>
                             </div>
@@ -282,16 +281,18 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseTwo" aria-expanded="false"
                                     aria-controls="flush-collapseTwo">
-                                    Staffing y estructura de equipos de trabajo
+                                    Introducción a las Tecnologías Emergentes
                                 </button>
                             </h2>
                             <div id="flush-collapseTwo" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Estructuración del trabajo en equipo </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Reflexión sobre estructura del equipo de trabajo </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Quiz: Estructura del equipo de trabajo</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Internet de las cosas </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Cloud Computing </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Big Data</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Ciberseguridad</span></li>                                  
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Inteligencia Artificial</span></li>                                  
                                     </ul>
                                 </div>
                             </div>
@@ -301,16 +302,18 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseThree" aria-expanded="false"
                                     aria-controls="flush-collapseThree">
-                                    Planeación de Programas de Aprendizaje Híbrido
+                                    Transversalidad de las Tecnologías Emergentes
                                 </button>
                             </h2>
                             <div id="flush-collapseThree" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Planeación y calendarización </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Presupuestos </span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Aplicación práctica de proyecto</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Internet de las cosas </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Cloud Computing </span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Big Data</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Ciberseguridad</span></li>                                  
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Inteligencia Artificial</span></li> 
                                     </ul>
                                 </div>
                             </div>
@@ -320,15 +323,18 @@
                                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                                     data-bs-target="#flush-collapseEight" aria-expanded="false"
                                     aria-controls="flush-collapseEight">
-                                    Gestión des procesos
+                                    Smart Technologies 
                                 </button>
                             </h2>
                             <div id="flush-collapseEight" class="accordion-collapse collapse"
                                 aria-labelledby="flush-headingEight" data-bs-parent="#accordionFlushExample">
                                 <div class="accordion-body">
                                     <ul class="list-group list-group-light">
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Seguimiento, tracking y KPIs</span></li>
-                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Gestión de riesgos y presupuestos</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Smart Manufacturing</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Smart Cities</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Smart Agriculture</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Smart Transportation</span></li>
+                                        <li class="list-group-item px-3 border-0"><i class="fas fa-circle" style="color: #BB9F79;"></i><span> Smart Health</span></li>                                        
                                     </ul>
                                 </div>
                             </div>
@@ -336,7 +342,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5 align-self-center my-auto">
-                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/tecnologiasEmergentes/imgSeccionContenido.png')?>" alt="Logo Image"/>
+                    <img class="img-fluid pt-2 mx-auto d-block" src="<?= base_url('assets/images/transformacionDigital/imgSeccionContenido.png')?>" alt="Logo Image"/>
                 </div>
             </div>
         </div>
